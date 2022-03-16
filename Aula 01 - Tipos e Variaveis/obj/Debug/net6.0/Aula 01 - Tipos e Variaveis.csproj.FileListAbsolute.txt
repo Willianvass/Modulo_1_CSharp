@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\bin\Debug\net6.0\Aula 01 - Tipos e Variaveis.exe
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\bin\Debug\net6.0\Aula 01 - Tipos e Variaveis.deps.json
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\bin\Debug\net6.0\Aula 01 - Tipos e Variaveis.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\bin\Debug\net6.0\Aula 01 - Tipos e Variaveis.dll
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\bin\Debug\net6.0\Aula 01 - Tipos e Variaveis.pdb
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.dll
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\refint\Aula 01 - Tipos e Variaveis.dll
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.pdb
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\Aula 01 - Tipos e Variaveis.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 01 - Tipos e Variaveis\obj\Debug\net6.0\ref\Aula 01 - Tipos e Variaveis.dll
