@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\bin\Debug\net6.0\Aula 11 - Arquivos e Diretorios.exe
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\bin\Debug\net6.0\Aula 11 - Arquivos e Diretorios.deps.json
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\bin\Debug\net6.0\Aula 11 - Arquivos e Diretorios.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\bin\Debug\net6.0\Aula 11 - Arquivos e Diretorios.dll
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\bin\Debug\net6.0\Aula 11 - Arquivos e Diretorios.pdb
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.dll
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\refint\Aula 11 - Arquivos e Diretorios.dll
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.pdb
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\Aula 11 - Arquivos e Diretorios.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 11 - Arquivos e Diretorios\obj\Debug\net6.0\ref\Aula 11 - Arquivos e Diretorios.dll
