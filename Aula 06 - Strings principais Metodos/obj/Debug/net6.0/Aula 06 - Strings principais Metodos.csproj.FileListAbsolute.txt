@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\bin\Debug\net6.0\Aula 06 - Strings principais Metodos.exe
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\bin\Debug\net6.0\Aula 06 - Strings principais Metodos.deps.json
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\bin\Debug\net6.0\Aula 06 - Strings principais Metodos.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\bin\Debug\net6.0\Aula 06 - Strings principais Metodos.dll
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\bin\Debug\net6.0\Aula 06 - Strings principais Metodos.pdb
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.dll
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\refint\Aula 06 - Strings principais Metodos.dll
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.pdb
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\Aula 06 - Strings principais Metodos.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 06 - Strings principais Metodos\obj\Debug\net6.0\ref\Aula 06 - Strings principais Metodos.dll

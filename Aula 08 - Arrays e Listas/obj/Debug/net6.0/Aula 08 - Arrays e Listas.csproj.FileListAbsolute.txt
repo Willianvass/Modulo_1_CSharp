@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\bin\Debug\net6.0\Aula 08 - Arrays e Listas.exe
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\bin\Debug\net6.0\Aula 08 - Arrays e Listas.deps.json
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\bin\Debug\net6.0\Aula 08 - Arrays e Listas.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\bin\Debug\net6.0\Aula 08 - Arrays e Listas.dll
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\bin\Debug\net6.0\Aula 08 - Arrays e Listas.pdb
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.dll
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\refint\Aula 08 - Arrays e Listas.dll
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.pdb
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\Aula 08 - Arrays e Listas.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 08 - Arrays e Listas\obj\Debug\net6.0\ref\Aula 08 - Arrays e Listas.dll
