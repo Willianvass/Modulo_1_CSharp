@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\bin\Debug\net6.0\Aula 12 - Debbuging e Exceções.exe
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\bin\Debug\net6.0\Aula 12 - Debbuging e Exceções.deps.json
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\bin\Debug\net6.0\Aula 12 - Debbuging e Exceções.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\bin\Debug\net6.0\Aula 12 - Debbuging e Exceções.dll
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\bin\Debug\net6.0\Aula 12 - Debbuging e Exceções.pdb
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.dll
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\refint\Aula 12 - Debbuging e Exceções.dll
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.pdb
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\Aula 12 - Debbuging e Exceções.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 12 - Debugging e Exceções\obj\Debug\net6.0\ref\Aula 12 - Debbuging e Exceções.dll

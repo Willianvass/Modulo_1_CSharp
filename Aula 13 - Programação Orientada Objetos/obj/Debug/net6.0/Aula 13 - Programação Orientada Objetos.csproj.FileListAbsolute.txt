@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\bin\Debug\net6.0\Aula 13 - Programação Orientada Objetos.exe
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\bin\Debug\net6.0\Aula 13 - Programação Orientada Objetos.deps.json
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\bin\Debug\net6.0\Aula 13 - Programação Orientada Objetos.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\bin\Debug\net6.0\Aula 13 - Programação Orientada Objetos.dll
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\bin\Debug\net6.0\Aula 13 - Programação Orientada Objetos.pdb
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.dll
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\refint\Aula 13 - Programação Orientada Objetos.dll
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.pdb
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\Aula 13 - Programação Orientada Objetos.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 13 - Programação Orientada Objetos\obj\Debug\net6.0\ref\Aula 13 - Programação Orientada Objetos.dll
