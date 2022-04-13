@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.exe
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.deps.json
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\bin\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.dll
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\refint\EstruturasRepeticao.dll
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.pdb
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 05 - Estruturas de Repetição\EstruturasRepeticao\obj\Debug\net6.0\ref\EstruturasRepeticao.dll

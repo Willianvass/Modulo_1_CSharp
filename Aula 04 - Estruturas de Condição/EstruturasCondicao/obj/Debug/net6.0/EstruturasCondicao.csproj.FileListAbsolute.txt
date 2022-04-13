@@ -1,0 +1,15 @@
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\bin\Debug\net6.0\EstruturasCondicao.exe
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\bin\Debug\net6.0\EstruturasCondicao.deps.json
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\bin\Debug\net6.0\EstruturasCondicao.runtimeconfig.json
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\bin\Debug\net6.0\EstruturasCondicao.dll
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\bin\Debug\net6.0\EstruturasCondicao.pdb
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.csproj.AssemblyReference.cache
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.AssemblyInfoInputs.cache
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.AssemblyInfo.cs
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.dll
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\refint\EstruturasCondicao.dll
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.pdb
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\EstruturasCondicao.genruntimeconfig.cache
+C:\Users\Willian\Curso .NET\Aula 04 - Estruturas de Condição\EstruturasCondicao\obj\Debug\net6.0\ref\EstruturasCondicao.dll
